@@ -1,5 +1,7 @@
 # 6Figures
-A platform for software engineers to prepare for the coding interview
+## A platform for software engineers to prepare for the coding interview
+### MERN Stack employs cloud-based mongoDB Atlas, Express, React.js, Node.js 
+### Dyamically highlights the current index in a stateful React component while providing error handling and other feedback
 
 [Live Link](https://speedcoder.ml) 
 
